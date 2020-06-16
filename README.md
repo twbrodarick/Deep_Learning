@@ -39,10 +39,10 @@ Due to the volatility of cryptocurrency speculation, investors will often try to
    
 > Which window size works best for the model?
 
-* A *window size of 1* minimizes loss the best for CLosing Prices at 0.0167. The loss trends upward for both models as window sizes are increased.
+* A *window size of 1* minimizes loss the best for Closing Prices at 0.0167. The loss trends upward for both models as window sizes are increased.
 * FNG's loss at window size = 1 was 0.1686. 
-* However, the FNG model loss rose much faster than the Closing Prices model as windows sizes increased. 
-* For example at window size = *2* the loss for Closing Prices increases to 0.0178 and 0.1820 for the FNG model.
+* However, the FNG model loss rose much faster than the loss for the Closing Prices model as windows sizes increased. 
+* For example, at window size = *2* the loss for Closing Prices increases to 0.0178 and 0.1820 for the FNG model.
 * At window size = *10* the loss for Closing Prices rises to 0.0793 and *0.2332* for the FNG model.
 
 ### Resources
