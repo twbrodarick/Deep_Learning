@@ -8,7 +8,7 @@ Due to the volatility of cryptocurrency speculation, investors will often try to
 
 1. "../Closing_Prices" notebook:  Previous Bitcoin closing prices are used to predict the next closing price.
 2. "../Fear_and_Greed" notebook: FNG values are used to predict the next closing price.
-- - 
+
 ## Model Considerations
 
 1. Each model uses 70% of the data for training and 30% of the data for testing.
