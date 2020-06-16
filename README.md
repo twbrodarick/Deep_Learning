@@ -33,7 +33,9 @@ Due to the volatility of cryptocurrency speculation, investors will often try to
 > Which model tracks the actual values better over time?
 
 * The Closing Prices model tracks actual values very well compared to the material divergence experienced by the FNG model over time.
-   ![closing](https://github.com/twbrodarick/Deep_Learning/blob/master/Data_Files/closing.png)  ![fng](https://github.com/twbrodarick/Deep_Learning/blob/master/Data_Files/fng.png)
+
+   ![closing](https://github.com/twbrodarick/Deep_Learning/blob/master/Data_Files/closing.png)  
+   ![fng](https://github.com/twbrodarick/Deep_Learning/blob/master/Data_Files/fng.png)
    
 > Which window size works best for the model?
 
